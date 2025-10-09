@@ -24,3 +24,4 @@ while current:
     print(current.dato, end=" <-> ")
     current=current.anterior
 print("None")
+Actualizacion
