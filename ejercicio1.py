@@ -23,6 +23,5 @@ for i in range(3):
     registrar_alumno(nombre, edad, carrera)
 
 
-print("\n Lista Final de Alumnos")
+print("\n--- Lista Final de Alumnos ---")
 print(alumnos)
-# Actualizacion: Se corrigió la conversión de edad a entero y se mejoró la legibilidad del código.
