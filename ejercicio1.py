@@ -23,5 +23,5 @@ for i in range(3):
     registrar_alumno(nombre, edad, carrera)
 
 
-print("\n--- Lista Final de Alumnos ---")
+print("\nLista Final de Alumnos")
 print(alumnos)
